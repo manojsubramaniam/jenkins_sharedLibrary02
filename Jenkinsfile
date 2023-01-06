@@ -4,7 +4,7 @@ pipeline{
 	stages{
 		stage("Run Tests") {
 			steps {
-			    sh "echo SUCCESS on ${BranchName}"
+			    sh "echo SUCCESS on Main Branch"
 			}
 		}
 	
