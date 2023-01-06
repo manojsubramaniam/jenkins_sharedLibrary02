@@ -1,4 +1,4 @@
-@Library('DevOps_Library@master') _
+@Library('DevOps_Library@main') _
 node
 {
     myfirstcode("IndiaBees")
